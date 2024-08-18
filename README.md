@@ -21,6 +21,7 @@ Containerization - Docker
 . Install the backend dependancies and related packages
 . cartesi Rollups
 
+
 ### Installation
  . clone the repository 
  . cartesi cli
@@ -29,8 +30,8 @@ Containerization - Docker
 
 ### Usage
 . start the docker desktop by opening it
-. Run the various cartesi commands one after the other from ```cartesi build```, ````cartesi run``` 
-. Follow through the cartesi docs ``` ```
+. Run the various cartesi commands one after the other from ```cartesi build```, ````cartesi run``` .
+. Follow through the cartesi docs ```https://docs.cartesi.io/cartesi-rollups/1.3/ ```
 
 ### Deployment 
 

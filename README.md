@@ -31,11 +31,11 @@ Containerization - Docker
 ### Usage
 . start the docker desktop by opening it
 . Run the various cartesi commands one after the other from ```cartesi build```, ````cartesi run``` .
-. Follow through the cartesi docs ```https://docs.cartesi.io/cartesi-rollups/1.3/ ```
+. Follow through the cartesi docs https://docs.cartesi.io/cartesi-rollups/1.3/ 
 
 ### Deployment 
 
-.After successfully building the project using the ``caresi build`` command, run deployment command ```  cartesi deploy --hosting self-hosted --webapp https://sunodo.io/deploy``` and follow through the documentaion 
-.Cartesi doc ```https://docs.cartesi.io/cartesi-rollups/1.3/deployment/introduction/```
+.After successfully building the project using the ``caresi build`` command, run deployment command   cartesi deploy --hosting self-hosted --webapp https://sunodo.io/deploy  and follow through the documentaion 
+.Cartesi doc https://docs.cartesi.io/cartesi-rollups/1.3/deployment/introduction/
 
 
